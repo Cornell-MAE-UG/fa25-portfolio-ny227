@@ -3,7 +3,7 @@ layout: project
 title: Design and Prototyping of an Ice Scraper
 description: Class project 
 technologies: [CAD]
-image: /assets/images/icescraper.jpg
+image: /assets/images/icescraper.JPG
 ---
 
 
