@@ -8,5 +8,5 @@ image: /assets/images/quadcopter.jpeg
 
 
 For a class assignment, we modeled the dynamical system of a quadcopter as a simple ODE, and created a MATLAB script to observe and experiment with how the inputs affected the rotatonal motion of the system. My part in the project was largely working with the MATLAB script to learn how the system was affected and the consequences of them. <br>
-
+<br>
 [Download the report]({{ "/assets/MAE3260.pdf" | relative_url }}) in PDF format.
