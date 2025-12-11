@@ -52,3 +52,6 @@ Torque Wrench Sensitivity = 1011 microstrain x 1000 = 1.011 mV/V
 <br>
 Strain Gauge Selected:<br>
 ![straingauge](/fa25-portfolio-ny227/assets/images/wrench-11.png)
+
+<br>
+[MATLAB Script used (Beam Theory)]({{ '/assets/mae3270final.pdf' | relative_url }})
